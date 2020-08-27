@@ -1,0 +1,40 @@
+Observation sequence Q : CCLL
+Length of Q : 4
+
+ Q) = 0.3
+P(h3 | Q) = 0.4
+P(h4 | Q) = 0.1
+P(h5 | Q) = 0.0
+Probability that the next candy will be C, given Q: 0.65
+Probability that the next candy will be L, given Q: 0.35
+
+After Observation 2 = C
+
+P(h1 | Q) = 0.30769
+P(h2 | Q) = 0.34615
+P(h3 | Q) = 0.30769
+P(h4 | Q) = 0.038462
+P(h5 | Q) = 0.0
+Probability that the next candy will be C, given Q: 0.73077
+Probability that the next candy will be L, given Q: 0.26923
+
+After Observation 3 = L
+
+P(h1 | Q) = 0.0
+P(h2 | Q) = 0.32143
+P(h3 | Q) = 0.57143
+P(h4 | Q) = 0.10714
+P(h5 | Q) = 0.0
+Probability that the next candy will be C, given Q: 0.55357
+Probability that the next candy will be L, given Q: 0.44643
+
+After Observation 4 = L
+
+P(h1 | Q) = 0.0
+P(h2 | Q) = 0.18
+P(h3 | Q) = 0.64
+P(h4 | Q) = 0.18
+P(h5 | Q) = 0.0
+Probability that the next candy will be C, given Q: 0.5
+Probability that the next candy will be L, given Q: 0.5
+
